@@ -124,8 +124,8 @@ class EstadisticasView(APIView):
                 "nombre": nombres.get(f["proyecto__categoria"]),
                 "proyectos": f["proyectos"],
                 "promedio": redondear(f["promedio"]),
-                "mejor": redondear(f["mejor"]),
-                "peor": redondear(f["peor"]),
+                "mayor": redondear(f["mejor"]),
+                "menor": redondear(f["peor"]),
             }
             for f in Calificacion.objects.values("proyecto__categoria")
             .annotate(
@@ -137,7 +137,7 @@ class EstadisticasView(APIView):
             .order_by("-promedio")
         ]
 
-        #gerenales
+        # totales generales
         agg = Calificacion.objects.aggregate(promedio=Avg("puntaje"))
         general = {
             "total_proyectos": Proyecto.objects.count(),
