@@ -23,6 +23,7 @@ from evaluacion.api_views import (
     ProyectoViewSet,
     EvaluadorViewSet,
     CalificacionViewSet,
+    EstadisticasView,
 )
 
 router = DefaultRouter()
@@ -32,6 +33,7 @@ router.register("calificaciones", CalificacionViewSet)
 
 urlpatterns = [
     path("", RedirectView.as_view(url="/api/", permanent=False)),
+    path("api/stats/", EstadisticasView.as_view()),
     path("admin/", admin.site.urls),
     path("api/", include(router.urls)),
     path("api-auth/", include("rest_framework.urls")),

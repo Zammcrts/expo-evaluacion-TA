@@ -1,0 +1,2420 @@
+[
+  {
+    "proyecto": 1,
+    "evaluador": 33,
+    "puntaje": 6.68,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 1,
+    "evaluador": 43,
+    "puntaje": 8.36,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 1,
+    "evaluador": 41,
+    "puntaje": 9.03,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 1,
+    "evaluador": 40,
+    "puntaje": 5.12,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 2,
+    "evaluador": 40,
+    "puntaje": 7.07,
+    "comentario": ""
+  },
+  {
+    "proyecto": 2,
+    "evaluador": 50,
+    "puntaje": 7.88,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 2,
+    "evaluador": 5,
+    "puntaje": 7.47,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 2,
+    "evaluador": 30,
+    "puntaje": 5.74,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 3,
+    "evaluador": 50,
+    "puntaje": 5.88,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 3,
+    "evaluador": 28,
+    "puntaje": 7.32,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 3,
+    "evaluador": 15,
+    "puntaje": 6.25,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 4,
+    "evaluador": 9,
+    "puntaje": 9.94,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 4,
+    "evaluador": 30,
+    "puntaje": 6.59,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 4,
+    "evaluador": 43,
+    "puntaje": 8.06,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 4,
+    "evaluador": 34,
+    "puntaje": 7.13,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 5,
+    "evaluador": 11,
+    "puntaje": 6.3,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 5,
+    "evaluador": 48,
+    "puntaje": 9.2,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 5,
+    "evaluador": 31,
+    "puntaje": 8.83,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 5,
+    "evaluador": 29,
+    "puntaje": 7.42,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 6,
+    "evaluador": 29,
+    "puntaje": 6.17,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 6,
+    "evaluador": 5,
+    "puntaje": 6.6,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 6,
+    "evaluador": 46,
+    "puntaje": 5.4,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 6,
+    "evaluador": 19,
+    "puntaje": 6.16,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 7,
+    "evaluador": 14,
+    "puntaje": 7.33,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 7,
+    "evaluador": 5,
+    "puntaje": 6.03,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 7,
+    "evaluador": 27,
+    "puntaje": 6.95,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 7,
+    "evaluador": 22,
+    "puntaje": 9.73,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 7,
+    "evaluador": 35,
+    "puntaje": 9.28,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 8,
+    "evaluador": 31,
+    "puntaje": 8.77,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 8,
+    "evaluador": 1,
+    "puntaje": 7.69,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 8,
+    "evaluador": 23,
+    "puntaje": 9.0,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 8,
+    "evaluador": 20,
+    "puntaje": 7.44,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 9,
+    "evaluador": 32,
+    "puntaje": 8.34,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 9,
+    "evaluador": 2,
+    "puntaje": 8.62,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 9,
+    "evaluador": 25,
+    "puntaje": 9.6,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 9,
+    "evaluador": 22,
+    "puntaje": 7.67,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 10,
+    "evaluador": 37,
+    "puntaje": 7.14,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 10,
+    "evaluador": 43,
+    "puntaje": 5.91,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 10,
+    "evaluador": 2,
+    "puntaje": 6.9,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 10,
+    "evaluador": 6,
+    "puntaje": 7.27,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 10,
+    "evaluador": 42,
+    "puntaje": 8.81,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 11,
+    "evaluador": 49,
+    "puntaje": 7.35,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 11,
+    "evaluador": 27,
+    "puntaje": 5.26,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 11,
+    "evaluador": 17,
+    "puntaje": 6.12,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 11,
+    "evaluador": 6,
+    "puntaje": 8.91,
+    "comentario": ""
+  },
+  {
+    "proyecto": 12,
+    "evaluador": 49,
+    "puntaje": 6.0,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 12,
+    "evaluador": 2,
+    "puntaje": 8.11,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 12,
+    "evaluador": 16,
+    "puntaje": 5.63,
+    "comentario": ""
+  },
+  {
+    "proyecto": 13,
+    "evaluador": 37,
+    "puntaje": 8.5,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 13,
+    "evaluador": 14,
+    "puntaje": 5.84,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 13,
+    "evaluador": 30,
+    "puntaje": 9.82,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 14,
+    "evaluador": 20,
+    "puntaje": 5.13,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 14,
+    "evaluador": 7,
+    "puntaje": 7.88,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 14,
+    "evaluador": 38,
+    "puntaje": 6.98,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 15,
+    "evaluador": 38,
+    "puntaje": 6.21,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 15,
+    "evaluador": 45,
+    "puntaje": 9.25,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 15,
+    "evaluador": 41,
+    "puntaje": 9.03,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 16,
+    "evaluador": 23,
+    "puntaje": 8.31,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 16,
+    "evaluador": 35,
+    "puntaje": 7.53,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 16,
+    "evaluador": 28,
+    "puntaje": 5.06,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 17,
+    "evaluador": 7,
+    "puntaje": 9.46,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 17,
+    "evaluador": 28,
+    "puntaje": 8.54,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 17,
+    "evaluador": 24,
+    "puntaje": 5.88,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 17,
+    "evaluador": 41,
+    "puntaje": 9.83,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 18,
+    "evaluador": 35,
+    "puntaje": 9.13,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 18,
+    "evaluador": 50,
+    "puntaje": 6.34,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 18,
+    "evaluador": 31,
+    "puntaje": 9.15,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 18,
+    "evaluador": 30,
+    "puntaje": 6.39,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 18,
+    "evaluador": 28,
+    "puntaje": 6.22,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 19,
+    "evaluador": 40,
+    "puntaje": 7.47,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 19,
+    "evaluador": 43,
+    "puntaje": 5.91,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 19,
+    "evaluador": 25,
+    "puntaje": 6.77,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 19,
+    "evaluador": 22,
+    "puntaje": 6.7,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 19,
+    "evaluador": 2,
+    "puntaje": 8.51,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 20,
+    "evaluador": 1,
+    "puntaje": 8.6,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 20,
+    "evaluador": 34,
+    "puntaje": 7.78,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 20,
+    "evaluador": 13,
+    "puntaje": 8.45,
+    "comentario": ""
+  },
+  {
+    "proyecto": 20,
+    "evaluador": 6,
+    "puntaje": 8.56,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 20,
+    "evaluador": 16,
+    "puntaje": 8.96,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 21,
+    "evaluador": 15,
+    "puntaje": 6.53,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 21,
+    "evaluador": 26,
+    "puntaje": 6.85,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 21,
+    "evaluador": 45,
+    "puntaje": 7.65,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 21,
+    "evaluador": 16,
+    "puntaje": 9.98,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 22,
+    "evaluador": 23,
+    "puntaje": 6.53,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 22,
+    "evaluador": 45,
+    "puntaje": 5.6,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 22,
+    "evaluador": 30,
+    "puntaje": 6.58,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 22,
+    "evaluador": 18,
+    "puntaje": 9.75,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 23,
+    "evaluador": 14,
+    "puntaje": 6.38,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 23,
+    "evaluador": 48,
+    "puntaje": 9.88,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 23,
+    "evaluador": 31,
+    "puntaje": 7.98,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 24,
+    "evaluador": 19,
+    "puntaje": 5.9,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 24,
+    "evaluador": 15,
+    "puntaje": 8.54,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 24,
+    "evaluador": 24,
+    "puntaje": 6.37,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 25,
+    "evaluador": 19,
+    "puntaje": 7.45,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 25,
+    "evaluador": 45,
+    "puntaje": 7.87,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 25,
+    "evaluador": 9,
+    "puntaje": 7.39,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 25,
+    "evaluador": 41,
+    "puntaje": 5.92,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 25,
+    "evaluador": 49,
+    "puntaje": 6.26,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 26,
+    "evaluador": 5,
+    "puntaje": 5.37,
+    "comentario": ""
+  },
+  {
+    "proyecto": 26,
+    "evaluador": 26,
+    "puntaje": 8.43,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 26,
+    "evaluador": 32,
+    "puntaje": 5.75,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 27,
+    "evaluador": 6,
+    "puntaje": 8.82,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 27,
+    "evaluador": 16,
+    "puntaje": 7.98,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 27,
+    "evaluador": 8,
+    "puntaje": 6.13,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 27,
+    "evaluador": 36,
+    "puntaje": 6.9,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 28,
+    "evaluador": 38,
+    "puntaje": 8.11,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 28,
+    "evaluador": 28,
+    "puntaje": 9.8,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 28,
+    "evaluador": 20,
+    "puntaje": 9.74,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 28,
+    "evaluador": 37,
+    "puntaje": 8.13,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 29,
+    "evaluador": 6,
+    "puntaje": 5.38,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 29,
+    "evaluador": 11,
+    "puntaje": 7.04,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 29,
+    "evaluador": 16,
+    "puntaje": 7.35,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 29,
+    "evaluador": 12,
+    "puntaje": 6.16,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 29,
+    "evaluador": 36,
+    "puntaje": 8.51,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 30,
+    "evaluador": 44,
+    "puntaje": 8.94,
+    "comentario": ""
+  },
+  {
+    "proyecto": 30,
+    "evaluador": 15,
+    "puntaje": 7.95,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 30,
+    "evaluador": 17,
+    "puntaje": 7.13,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 31,
+    "evaluador": 42,
+    "puntaje": 9.13,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 31,
+    "evaluador": 10,
+    "puntaje": 5.3,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 31,
+    "evaluador": 18,
+    "puntaje": 7.98,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 32,
+    "evaluador": 29,
+    "puntaje": 6.52,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 32,
+    "evaluador": 8,
+    "puntaje": 9.71,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 32,
+    "evaluador": 30,
+    "puntaje": 7.7,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 32,
+    "evaluador": 45,
+    "puntaje": 5.4,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 33,
+    "evaluador": 48,
+    "puntaje": 5.13,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 33,
+    "evaluador": 21,
+    "puntaje": 9.81,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 33,
+    "evaluador": 39,
+    "puntaje": 7.94,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 33,
+    "evaluador": 17,
+    "puntaje": 10.0,
+    "comentario": ""
+  },
+  {
+    "proyecto": 34,
+    "evaluador": 37,
+    "puntaje": 7.35,
+    "comentario": ""
+  },
+  {
+    "proyecto": 34,
+    "evaluador": 3,
+    "puntaje": 7.21,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 34,
+    "evaluador": 49,
+    "puntaje": 5.91,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 34,
+    "evaluador": 12,
+    "puntaje": 7.18,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 35,
+    "evaluador": 31,
+    "puntaje": 6.67,
+    "comentario": ""
+  },
+  {
+    "proyecto": 35,
+    "evaluador": 23,
+    "puntaje": 5.52,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 35,
+    "evaluador": 27,
+    "puntaje": 6.65,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 36,
+    "evaluador": 43,
+    "puntaje": 5.18,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 36,
+    "evaluador": 26,
+    "puntaje": 6.57,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 36,
+    "evaluador": 49,
+    "puntaje": 5.58,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 36,
+    "evaluador": 36,
+    "puntaje": 9.32,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 37,
+    "evaluador": 35,
+    "puntaje": 7.59,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 37,
+    "evaluador": 30,
+    "puntaje": 8.78,
+    "comentario": ""
+  },
+  {
+    "proyecto": 37,
+    "evaluador": 27,
+    "puntaje": 7.21,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 37,
+    "evaluador": 4,
+    "puntaje": 6.02,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 37,
+    "evaluador": 13,
+    "puntaje": 5.66,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 38,
+    "evaluador": 45,
+    "puntaje": 9.87,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 38,
+    "evaluador": 32,
+    "puntaje": 9.0,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 38,
+    "evaluador": 8,
+    "puntaje": 6.55,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 38,
+    "evaluador": 2,
+    "puntaje": 7.76,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 39,
+    "evaluador": 8,
+    "puntaje": 9.16,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 39,
+    "evaluador": 30,
+    "puntaje": 9.66,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 39,
+    "evaluador": 42,
+    "puntaje": 7.54,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 40,
+    "evaluador": 31,
+    "puntaje": 5.72,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 40,
+    "evaluador": 16,
+    "puntaje": 9.61,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 40,
+    "evaluador": 30,
+    "puntaje": 8.73,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 40,
+    "evaluador": 36,
+    "puntaje": 9.32,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 41,
+    "evaluador": 22,
+    "puntaje": 6.41,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 41,
+    "evaluador": 33,
+    "puntaje": 9.19,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 41,
+    "evaluador": 18,
+    "puntaje": 9.99,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 41,
+    "evaluador": 1,
+    "puntaje": 9.33,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 42,
+    "evaluador": 31,
+    "puntaje": 7.72,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 42,
+    "evaluador": 23,
+    "puntaje": 9.66,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 42,
+    "evaluador": 22,
+    "puntaje": 9.9,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 42,
+    "evaluador": 36,
+    "puntaje": 7.86,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 42,
+    "evaluador": 49,
+    "puntaje": 9.28,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 43,
+    "evaluador": 21,
+    "puntaje": 8.53,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 43,
+    "evaluador": 48,
+    "puntaje": 6.93,
+    "comentario": ""
+  },
+  {
+    "proyecto": 43,
+    "evaluador": 31,
+    "puntaje": 8.96,
+    "comentario": ""
+  },
+  {
+    "proyecto": 44,
+    "evaluador": 32,
+    "puntaje": 7.51,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 44,
+    "evaluador": 3,
+    "puntaje": 6.66,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 44,
+    "evaluador": 9,
+    "puntaje": 9.37,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 45,
+    "evaluador": 34,
+    "puntaje": 8.61,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 45,
+    "evaluador": 30,
+    "puntaje": 9.35,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 45,
+    "evaluador": 1,
+    "puntaje": 5.37,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 46,
+    "evaluador": 40,
+    "puntaje": 5.4,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 46,
+    "evaluador": 45,
+    "puntaje": 9.26,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 46,
+    "evaluador": 26,
+    "puntaje": 6.9,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 46,
+    "evaluador": 42,
+    "puntaje": 8.13,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 47,
+    "evaluador": 3,
+    "puntaje": 8.42,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 47,
+    "evaluador": 40,
+    "puntaje": 9.99,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 47,
+    "evaluador": 5,
+    "puntaje": 7.17,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 47,
+    "evaluador": 16,
+    "puntaje": 8.8,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 47,
+    "evaluador": 41,
+    "puntaje": 7.22,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 48,
+    "evaluador": 3,
+    "puntaje": 6.47,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 48,
+    "evaluador": 21,
+    "puntaje": 7.15,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 48,
+    "evaluador": 4,
+    "puntaje": 7.66,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 49,
+    "evaluador": 12,
+    "puntaje": 8.1,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 49,
+    "evaluador": 11,
+    "puntaje": 7.49,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 49,
+    "evaluador": 6,
+    "puntaje": 5.72,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 49,
+    "evaluador": 40,
+    "puntaje": 8.19,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 49,
+    "evaluador": 25,
+    "puntaje": 6.28,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 50,
+    "evaluador": 19,
+    "puntaje": 5.37,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 50,
+    "evaluador": 44,
+    "puntaje": 9.94,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 50,
+    "evaluador": 35,
+    "puntaje": 8.19,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 50,
+    "evaluador": 11,
+    "puntaje": 8.45,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 51,
+    "evaluador": 13,
+    "puntaje": 6.19,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 51,
+    "evaluador": 25,
+    "puntaje": 6.79,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 51,
+    "evaluador": 31,
+    "puntaje": 9.96,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 51,
+    "evaluador": 7,
+    "puntaje": 5.11,
+    "comentario": ""
+  },
+  {
+    "proyecto": 52,
+    "evaluador": 18,
+    "puntaje": 8.89,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 52,
+    "evaluador": 1,
+    "puntaje": 9.55,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 52,
+    "evaluador": 37,
+    "puntaje": 9.16,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 52,
+    "evaluador": 44,
+    "puntaje": 8.88,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 53,
+    "evaluador": 23,
+    "puntaje": 6.25,
+    "comentario": ""
+  },
+  {
+    "proyecto": 53,
+    "evaluador": 15,
+    "puntaje": 8.4,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 53,
+    "evaluador": 41,
+    "puntaje": 8.14,
+    "comentario": ""
+  },
+  {
+    "proyecto": 53,
+    "evaluador": 13,
+    "puntaje": 8.23,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 53,
+    "evaluador": 40,
+    "puntaje": 8.94,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 54,
+    "evaluador": 24,
+    "puntaje": 6.63,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 54,
+    "evaluador": 47,
+    "puntaje": 5.88,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 54,
+    "evaluador": 9,
+    "puntaje": 8.93,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 54,
+    "evaluador": 6,
+    "puntaje": 7.65,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 54,
+    "evaluador": 19,
+    "puntaje": 9.15,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 55,
+    "evaluador": 19,
+    "puntaje": 7.34,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 55,
+    "evaluador": 48,
+    "puntaje": 5.7,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 55,
+    "evaluador": 22,
+    "puntaje": 9.3,
+    "comentario": ""
+  },
+  {
+    "proyecto": 55,
+    "evaluador": 8,
+    "puntaje": 9.9,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 56,
+    "evaluador": 6,
+    "puntaje": 7.68,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 56,
+    "evaluador": 26,
+    "puntaje": 6.84,
+    "comentario": ""
+  },
+  {
+    "proyecto": 56,
+    "evaluador": 1,
+    "puntaje": 6.31,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 56,
+    "evaluador": 17,
+    "puntaje": 9.11,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 57,
+    "evaluador": 44,
+    "puntaje": 5.13,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 57,
+    "evaluador": 15,
+    "puntaje": 6.64,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 57,
+    "evaluador": 31,
+    "puntaje": 6.11,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 58,
+    "evaluador": 30,
+    "puntaje": 5.58,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 58,
+    "evaluador": 45,
+    "puntaje": 9.73,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 58,
+    "evaluador": 20,
+    "puntaje": 9.98,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 58,
+    "evaluador": 42,
+    "puntaje": 5.49,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 58,
+    "evaluador": 27,
+    "puntaje": 5.68,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 59,
+    "evaluador": 43,
+    "puntaje": 7.1,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 59,
+    "evaluador": 48,
+    "puntaje": 9.43,
+    "comentario": ""
+  },
+  {
+    "proyecto": 59,
+    "evaluador": 45,
+    "puntaje": 5.5,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 59,
+    "evaluador": 35,
+    "puntaje": 8.08,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 60,
+    "evaluador": 45,
+    "puntaje": 7.22,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 60,
+    "evaluador": 24,
+    "puntaje": 9.28,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 60,
+    "evaluador": 14,
+    "puntaje": 9.9,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 61,
+    "evaluador": 42,
+    "puntaje": 5.95,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 61,
+    "evaluador": 23,
+    "puntaje": 9.75,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 61,
+    "evaluador": 4,
+    "puntaje": 5.46,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 61,
+    "evaluador": 26,
+    "puntaje": 8.21,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 61,
+    "evaluador": 18,
+    "puntaje": 9.86,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 62,
+    "evaluador": 16,
+    "puntaje": 5.34,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 62,
+    "evaluador": 9,
+    "puntaje": 6.04,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 62,
+    "evaluador": 37,
+    "puntaje": 9.07,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 62,
+    "evaluador": 14,
+    "puntaje": 6.64,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 63,
+    "evaluador": 1,
+    "puntaje": 6.25,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 63,
+    "evaluador": 18,
+    "puntaje": 5.55,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 63,
+    "evaluador": 10,
+    "puntaje": 5.66,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 63,
+    "evaluador": 9,
+    "puntaje": 8.95,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 63,
+    "evaluador": 35,
+    "puntaje": 7.94,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 64,
+    "evaluador": 17,
+    "puntaje": 8.71,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 64,
+    "evaluador": 4,
+    "puntaje": 5.57,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 64,
+    "evaluador": 9,
+    "puntaje": 7.38,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 65,
+    "evaluador": 38,
+    "puntaje": 9.73,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 65,
+    "evaluador": 7,
+    "puntaje": 8.64,
+    "comentario": ""
+  },
+  {
+    "proyecto": 65,
+    "evaluador": 29,
+    "puntaje": 7.61,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 65,
+    "evaluador": 33,
+    "puntaje": 8.22,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 65,
+    "evaluador": 15,
+    "puntaje": 5.3,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 66,
+    "evaluador": 28,
+    "puntaje": 8.56,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 66,
+    "evaluador": 44,
+    "puntaje": 5.37,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 66,
+    "evaluador": 7,
+    "puntaje": 6.61,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 66,
+    "evaluador": 32,
+    "puntaje": 5.33,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 67,
+    "evaluador": 41,
+    "puntaje": 6.9,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 67,
+    "evaluador": 38,
+    "puntaje": 7.65,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 67,
+    "evaluador": 36,
+    "puntaje": 7.53,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 67,
+    "evaluador": 46,
+    "puntaje": 5.5,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 67,
+    "evaluador": 21,
+    "puntaje": 9.26,
+    "comentario": ""
+  },
+  {
+    "proyecto": 68,
+    "evaluador": 47,
+    "puntaje": 7.07,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 68,
+    "evaluador": 14,
+    "puntaje": 6.99,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 68,
+    "evaluador": 28,
+    "puntaje": 6.56,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 68,
+    "evaluador": 29,
+    "puntaje": 8.33,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 68,
+    "evaluador": 15,
+    "puntaje": 9.77,
+    "comentario": ""
+  },
+  {
+    "proyecto": 69,
+    "evaluador": 5,
+    "puntaje": 8.72,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 69,
+    "evaluador": 6,
+    "puntaje": 9.06,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 69,
+    "evaluador": 28,
+    "puntaje": 5.3,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 69,
+    "evaluador": 7,
+    "puntaje": 7.81,
+    "comentario": ""
+  },
+  {
+    "proyecto": 70,
+    "evaluador": 27,
+    "puntaje": 9.71,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 70,
+    "evaluador": 23,
+    "puntaje": 9.34,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 70,
+    "evaluador": 43,
+    "puntaje": 9.84,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 71,
+    "evaluador": 23,
+    "puntaje": 6.06,
+    "comentario": ""
+  },
+  {
+    "proyecto": 71,
+    "evaluador": 7,
+    "puntaje": 7.41,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 71,
+    "evaluador": 37,
+    "puntaje": 6.75,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 71,
+    "evaluador": 33,
+    "puntaje": 6.84,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 72,
+    "evaluador": 15,
+    "puntaje": 8.07,
+    "comentario": ""
+  },
+  {
+    "proyecto": 72,
+    "evaluador": 28,
+    "puntaje": 7.78,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 72,
+    "evaluador": 36,
+    "puntaje": 9.65,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 72,
+    "evaluador": 50,
+    "puntaje": 5.14,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 72,
+    "evaluador": 40,
+    "puntaje": 8.51,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 73,
+    "evaluador": 23,
+    "puntaje": 7.83,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 73,
+    "evaluador": 1,
+    "puntaje": 5.35,
+    "comentario": ""
+  },
+  {
+    "proyecto": 73,
+    "evaluador": 12,
+    "puntaje": 9.86,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 73,
+    "evaluador": 10,
+    "puntaje": 8.73,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 74,
+    "evaluador": 27,
+    "puntaje": 6.85,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 74,
+    "evaluador": 30,
+    "puntaje": 8.88,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 74,
+    "evaluador": 22,
+    "puntaje": 7.98,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 74,
+    "evaluador": 11,
+    "puntaje": 5.78,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 75,
+    "evaluador": 44,
+    "puntaje": 7.22,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 75,
+    "evaluador": 6,
+    "puntaje": 7.43,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 75,
+    "evaluador": 18,
+    "puntaje": 7.07,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 76,
+    "evaluador": 8,
+    "puntaje": 8.39,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 76,
+    "evaluador": 23,
+    "puntaje": 7.63,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 76,
+    "evaluador": 28,
+    "puntaje": 5.23,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 76,
+    "evaluador": 19,
+    "puntaje": 9.92,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 76,
+    "evaluador": 44,
+    "puntaje": 5.04,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 77,
+    "evaluador": 50,
+    "puntaje": 6.28,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 77,
+    "evaluador": 9,
+    "puntaje": 5.6,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 77,
+    "evaluador": 49,
+    "puntaje": 8.74,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 78,
+    "evaluador": 25,
+    "puntaje": 6.15,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 78,
+    "evaluador": 35,
+    "puntaje": 9.17,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 78,
+    "evaluador": 46,
+    "puntaje": 5.36,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 79,
+    "evaluador": 2,
+    "puntaje": 7.88,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 79,
+    "evaluador": 30,
+    "puntaje": 7.02,
+    "comentario": ""
+  },
+  {
+    "proyecto": 79,
+    "evaluador": 5,
+    "puntaje": 7.09,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 79,
+    "evaluador": 21,
+    "puntaje": 7.03,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 80,
+    "evaluador": 40,
+    "puntaje": 9.6,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 80,
+    "evaluador": 30,
+    "puntaje": 7.18,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 80,
+    "evaluador": 45,
+    "puntaje": 6.22,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 81,
+    "evaluador": 34,
+    "puntaje": 8.73,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 81,
+    "evaluador": 6,
+    "puntaje": 6.67,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 81,
+    "evaluador": 26,
+    "puntaje": 5.38,
+    "comentario": ""
+  },
+  {
+    "proyecto": 81,
+    "evaluador": 20,
+    "puntaje": 5.57,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 82,
+    "evaluador": 50,
+    "puntaje": 9.79,
+    "comentario": ""
+  },
+  {
+    "proyecto": 82,
+    "evaluador": 23,
+    "puntaje": 9.08,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 82,
+    "evaluador": 47,
+    "puntaje": 5.51,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 83,
+    "evaluador": 12,
+    "puntaje": 8.8,
+    "comentario": ""
+  },
+  {
+    "proyecto": 83,
+    "evaluador": 39,
+    "puntaje": 5.38,
+    "comentario": ""
+  },
+  {
+    "proyecto": 83,
+    "evaluador": 10,
+    "puntaje": 7.47,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 84,
+    "evaluador": 29,
+    "puntaje": 9.93,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 84,
+    "evaluador": 44,
+    "puntaje": 9.32,
+    "comentario": ""
+  },
+  {
+    "proyecto": 84,
+    "evaluador": 37,
+    "puntaje": 6.58,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 84,
+    "evaluador": 42,
+    "puntaje": 5.34,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 84,
+    "evaluador": 41,
+    "puntaje": 8.16,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 85,
+    "evaluador": 4,
+    "puntaje": 7.31,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 85,
+    "evaluador": 23,
+    "puntaje": 5.28,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 85,
+    "evaluador": 33,
+    "puntaje": 5.38,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 85,
+    "evaluador": 5,
+    "puntaje": 8.08,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 85,
+    "evaluador": 20,
+    "puntaje": 6.92,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 86,
+    "evaluador": 48,
+    "puntaje": 5.94,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 86,
+    "evaluador": 3,
+    "puntaje": 7.38,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 86,
+    "evaluador": 29,
+    "puntaje": 9.79,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 86,
+    "evaluador": 37,
+    "puntaje": 5.52,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 86,
+    "evaluador": 42,
+    "puntaje": 9.91,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 87,
+    "evaluador": 42,
+    "puntaje": 7.19,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 87,
+    "evaluador": 12,
+    "puntaje": 7.62,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 87,
+    "evaluador": 3,
+    "puntaje": 5.79,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 87,
+    "evaluador": 16,
+    "puntaje": 9.59,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 87,
+    "evaluador": 46,
+    "puntaje": 7.04,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 88,
+    "evaluador": 39,
+    "puntaje": 5.33,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 88,
+    "evaluador": 4,
+    "puntaje": 7.79,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 88,
+    "evaluador": 41,
+    "puntaje": 6.42,
+    "comentario": ""
+  },
+  {
+    "proyecto": 88,
+    "evaluador": 42,
+    "puntaje": 9.82,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 88,
+    "evaluador": 22,
+    "puntaje": 9.37,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 89,
+    "evaluador": 38,
+    "puntaje": 9.58,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 89,
+    "evaluador": 43,
+    "puntaje": 9.84,
+    "comentario": ""
+  },
+  {
+    "proyecto": 89,
+    "evaluador": 10,
+    "puntaje": 6.96,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 90,
+    "evaluador": 6,
+    "puntaje": 8.96,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 90,
+    "evaluador": 20,
+    "puntaje": 8.35,
+    "comentario": ""
+  },
+  {
+    "proyecto": 90,
+    "evaluador": 36,
+    "puntaje": 9.56,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 90,
+    "evaluador": 25,
+    "puntaje": 8.23,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 90,
+    "evaluador": 42,
+    "puntaje": 7.54,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 91,
+    "evaluador": 20,
+    "puntaje": 9.74,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 91,
+    "evaluador": 12,
+    "puntaje": 5.96,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 91,
+    "evaluador": 14,
+    "puntaje": 5.77,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 91,
+    "evaluador": 22,
+    "puntaje": 9.22,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 92,
+    "evaluador": 50,
+    "puntaje": 8.31,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 92,
+    "evaluador": 35,
+    "puntaje": 5.66,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 92,
+    "evaluador": 48,
+    "puntaje": 5.77,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 92,
+    "evaluador": 34,
+    "puntaje": 9.16,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 92,
+    "evaluador": 3,
+    "puntaje": 9.05,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 93,
+    "evaluador": 29,
+    "puntaje": 8.6,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 93,
+    "evaluador": 3,
+    "puntaje": 8.05,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 93,
+    "evaluador": 27,
+    "puntaje": 6.17,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 93,
+    "evaluador": 24,
+    "puntaje": 6.55,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 93,
+    "evaluador": 44,
+    "puntaje": 9.52,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 94,
+    "evaluador": 44,
+    "puntaje": 8.85,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 94,
+    "evaluador": 37,
+    "puntaje": 7.51,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 94,
+    "evaluador": 29,
+    "puntaje": 9.83,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 94,
+    "evaluador": 30,
+    "puntaje": 9.01,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 95,
+    "evaluador": 4,
+    "puntaje": 7.77,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 95,
+    "evaluador": 42,
+    "puntaje": 8.56,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 95,
+    "evaluador": 31,
+    "puntaje": 9.26,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 95,
+    "evaluador": 24,
+    "puntaje": 5.42,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 96,
+    "evaluador": 29,
+    "puntaje": 5.46,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 96,
+    "evaluador": 33,
+    "puntaje": 9.08,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 96,
+    "evaluador": 10,
+    "puntaje": 9.65,
+    "comentario": "Impacto claro"
+  },
+  {
+    "proyecto": 96,
+    "evaluador": 28,
+    "puntaje": 5.27,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 97,
+    "evaluador": 16,
+    "puntaje": 6.12,
+    "comentario": "Necesita más pruebas"
+  },
+  {
+    "proyecto": 97,
+    "evaluador": 25,
+    "puntaje": 9.65,
+    "comentario": ""
+  },
+  {
+    "proyecto": 97,
+    "evaluador": 6,
+    "puntaje": 6.68,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 97,
+    "evaluador": 24,
+    "puntaje": 5.69,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 98,
+    "evaluador": 45,
+    "puntaje": 7.35,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 98,
+    "evaluador": 9,
+    "puntaje": 5.03,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 98,
+    "evaluador": 49,
+    "puntaje": 5.1,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 98,
+    "evaluador": 46,
+    "puntaje": 9.17,
+    "comentario": "Bien documentado"
+  },
+  {
+    "proyecto": 99,
+    "evaluador": 39,
+    "puntaje": 6.44,
+    "comentario": "Innovador"
+  },
+  {
+    "proyecto": 99,
+    "evaluador": 34,
+    "puntaje": 5.61,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 99,
+    "evaluador": 28,
+    "puntaje": 7.1,
+    "comentario": "Podría escalar mejor"
+  },
+  {
+    "proyecto": 99,
+    "evaluador": 8,
+    "puntaje": 7.29,
+    "comentario": "Muy buena idea"
+  },
+  {
+    "proyecto": 99,
+    "evaluador": 50,
+    "puntaje": 9.18,
+    "comentario": "ta chido"
+  },
+  {
+    "proyecto": 100,
+    "evaluador": 35,
+    "puntaje": 6.21,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 100,
+    "evaluador": 2,
+    "puntaje": 6.46,
+    "comentario": "Excelente trabajo"
+  },
+  {
+    "proyecto": 100,
+    "evaluador": 41,
+    "puntaje": 8.07,
+    "comentario": "Buen prototipo"
+  },
+  {
+    "proyecto": 100,
+    "evaluador": 33,
+    "puntaje": 7.85,
+    "comentario": "Falta pulir la presentación"
+  },
+  {
+    "proyecto": 100,
+    "evaluador": 37,
+    "puntaje": 8.32,
+    "comentario": "Muy buena idea"
+  }
+]

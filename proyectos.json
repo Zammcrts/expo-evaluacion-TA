@@ -1,0 +1,1105 @@
+[
+  {
+    "titulo": "TechApp 1",
+    "equipo": "Neuronas 6",
+    "categoria": "SW",
+    "evaluadores": [
+      33,
+      40,
+      41,
+      43
+    ]
+  },
+  {
+    "titulo": "AlphaPlaca 2",
+    "equipo": "Los Nopales 8",
+    "categoria": "HW",
+    "evaluadores": [
+      5,
+      30,
+      40,
+      50
+    ]
+  },
+  {
+    "titulo": "NovaClasificador 3",
+    "equipo": "Bit Bandits 4",
+    "categoria": "IA",
+    "evaluadores": [
+      15,
+      28,
+      50
+    ]
+  },
+  {
+    "titulo": "AutoComunidad 4",
+    "equipo": "Pixel Crew 7",
+    "categoria": "SC",
+    "evaluadores": [
+      9,
+      30,
+      34,
+      43
+    ]
+  },
+  {
+    "titulo": "MegaAPI 5",
+    "equipo": "Tacos Tech 4",
+    "categoria": "SW",
+    "evaluadores": [
+      11,
+      29,
+      31,
+      48
+    ]
+  },
+  {
+    "titulo": "NovaWearable 6",
+    "equipo": "Silicon Mezcal 2",
+    "categoria": "HW",
+    "evaluadores": [
+      5,
+      19,
+      29,
+      46
+    ]
+  },
+  {
+    "titulo": "SmartChatbot 7",
+    "equipo": "Bit Bandits 3",
+    "categoria": "IA",
+    "evaluadores": [
+      5,
+      14,
+      22,
+      27,
+      35
+    ]
+  },
+  {
+    "titulo": "CyberComunidad 8",
+    "equipo": "Code Ninjas 7",
+    "categoria": "SC",
+    "evaluadores": [
+      1,
+      20,
+      23,
+      31
+    ]
+  },
+  {
+    "titulo": "CyberPortal 9",
+    "equipo": "Silicon Mezcal 9",
+    "categoria": "SW",
+    "evaluadores": [
+      2,
+      22,
+      25,
+      32
+    ]
+  },
+  {
+    "titulo": "TechWearable 10",
+    "equipo": "Los Papois 2",
+    "categoria": "HW",
+    "evaluadores": [
+      2,
+      6,
+      37,
+      42,
+      43
+    ]
+  },
+  {
+    "titulo": "AutoClasificador 11",
+    "equipo": "Tacos Tech 2",
+    "categoria": "IA",
+    "evaluadores": [
+      6,
+      17,
+      27,
+      49
+    ]
+  },
+  {
+    "titulo": "TechIniciativa 12",
+    "equipo": "Bit Bandits 8",
+    "categoria": "SC",
+    "evaluadores": [
+      2,
+      16,
+      49
+    ]
+  },
+  {
+    "titulo": "SmartSistema 13",
+    "equipo": "Quantum Chilaquiles 3",
+    "categoria": "SW",
+    "evaluadores": [
+      14,
+      30,
+      37
+    ]
+  },
+  {
+    "titulo": "AutoSensor 14",
+    "equipo": "Pixel Crew 9",
+    "categoria": "HW",
+    "evaluadores": [
+      7,
+      20,
+      38
+    ]
+  },
+  {
+    "titulo": "MegaModelo 15",
+    "equipo": "Bit Bandits 6",
+    "categoria": "IA",
+    "evaluadores": [
+      38,
+      41,
+      45
+    ]
+  },
+  {
+    "titulo": "NovaComunidad 16",
+    "equipo": "Quantum Chilaquiles 1",
+    "categoria": "SC",
+    "evaluadores": [
+      23,
+      28,
+      35
+    ]
+  },
+  {
+    "titulo": "MegaSistema 17",
+    "equipo": "Silicon Mezcal 1",
+    "categoria": "SW",
+    "evaluadores": [
+      7,
+      24,
+      28,
+      41
+    ]
+  },
+  {
+    "titulo": "EcoDron 18",
+    "equipo": "Pixel Crew 4",
+    "categoria": "HW",
+    "evaluadores": [
+      28,
+      30,
+      31,
+      35,
+      50
+    ]
+  },
+  {
+    "titulo": "SmartModelo 19",
+    "equipo": "Ctrl+Alt+Elote 2",
+    "categoria": "IA",
+    "evaluadores": [
+      2,
+      22,
+      25,
+      40,
+      43
+    ]
+  },
+  {
+    "titulo": "EcoIniciativa 20",
+    "equipo": "Code Ninjas 9",
+    "categoria": "SC",
+    "evaluadores": [
+      1,
+      6,
+      13,
+      16,
+      34
+    ]
+  },
+  {
+    "titulo": "NovaPlataforma 21",
+    "equipo": "Silicon Mezcal 9",
+    "categoria": "SW",
+    "evaluadores": [
+      15,
+      16,
+      26,
+      45
+    ]
+  },
+  {
+    "titulo": "NovaDron 22",
+    "equipo": "Quantum Chilaquiles 7",
+    "categoria": "HW",
+    "evaluadores": [
+      18,
+      23,
+      30,
+      45
+    ]
+  },
+  {
+    "titulo": "AlphaPredictor 23",
+    "equipo": "Neuronas 5",
+    "categoria": "IA",
+    "evaluadores": [
+      14,
+      31,
+      48
+    ]
+  },
+  {
+    "titulo": "CyberCampaña 24",
+    "equipo": "Silicon Mezcal 9",
+    "categoria": "SC",
+    "evaluadores": [
+      15,
+      19,
+      24
+    ]
+  },
+  {
+    "titulo": "GreenApp 25",
+    "equipo": "Neuronas 4",
+    "categoria": "SW",
+    "evaluadores": [
+      9,
+      19,
+      41,
+      45,
+      49
+    ]
+  },
+  {
+    "titulo": "EcoDron 26",
+    "equipo": "Los Papois 9",
+    "categoria": "HW",
+    "evaluadores": [
+      5,
+      26,
+      32
+    ]
+  },
+  {
+    "titulo": "AlphaPredictor 27",
+    "equipo": "Neuronas 1",
+    "categoria": "IA",
+    "evaluadores": [
+      6,
+      8,
+      16,
+      36
+    ]
+  },
+  {
+    "titulo": "EcoRed 28",
+    "equipo": "Neuronas 2",
+    "categoria": "SC",
+    "evaluadores": [
+      20,
+      28,
+      37,
+      38
+    ]
+  },
+  {
+    "titulo": "SmartSistema 29",
+    "equipo": "Code Ninjas 9",
+    "categoria": "SW",
+    "evaluadores": [
+      6,
+      11,
+      12,
+      16,
+      36
+    ]
+  },
+  {
+    "titulo": "AlphaDron 30",
+    "equipo": "Silicon Mezcal 4",
+    "categoria": "HW",
+    "evaluadores": [
+      15,
+      17,
+      44
+    ]
+  },
+  {
+    "titulo": "AutoModelo 31",
+    "equipo": "Ctrl+Alt+Elote 8",
+    "categoria": "IA",
+    "evaluadores": [
+      10,
+      18,
+      42
+    ]
+  },
+  {
+    "titulo": "AlphaIniciativa 32",
+    "equipo": "Los Nopales 4",
+    "categoria": "SC",
+    "evaluadores": [
+      8,
+      29,
+      30,
+      45
+    ]
+  },
+  {
+    "titulo": "EcoApp 33",
+    "equipo": "Los Nopales 6",
+    "categoria": "SW",
+    "evaluadores": [
+      17,
+      21,
+      39,
+      48
+    ]
+  },
+  {
+    "titulo": "CyberPlaca 34",
+    "equipo": "Silicon Mezcal 1",
+    "categoria": "HW",
+    "evaluadores": [
+      3,
+      12,
+      37,
+      49
+    ]
+  },
+  {
+    "titulo": "EcoChatbot 35",
+    "equipo": "Los Nopales 6",
+    "categoria": "IA",
+    "evaluadores": [
+      23,
+      27,
+      31
+    ]
+  },
+  {
+    "titulo": "EcoPrograma 36",
+    "equipo": "Neuronas 4",
+    "categoria": "SC",
+    "evaluadores": [
+      26,
+      36,
+      43,
+      49
+    ]
+  },
+  {
+    "titulo": "AutoAPI 37",
+    "equipo": "Bit Bandits 7",
+    "categoria": "SW",
+    "evaluadores": [
+      4,
+      13,
+      27,
+      30,
+      35
+    ]
+  },
+  {
+    "titulo": "NovaDron 38",
+    "equipo": "Silicon Mezcal 4",
+    "categoria": "HW",
+    "evaluadores": [
+      2,
+      8,
+      32,
+      45
+    ]
+  },
+  {
+    "titulo": "EcoAsistente 39",
+    "equipo": "Quantum Chilaquiles 2",
+    "categoria": "IA",
+    "evaluadores": [
+      8,
+      30,
+      42
+    ]
+  },
+  {
+    "titulo": "SmartComunidad 40",
+    "equipo": "Los Papois 2",
+    "categoria": "SC",
+    "evaluadores": [
+      16,
+      30,
+      31,
+      36
+    ]
+  },
+  {
+    "titulo": "AlphaPlataforma 41",
+    "equipo": "Los Nopales 8",
+    "categoria": "SW",
+    "evaluadores": [
+      1,
+      18,
+      22,
+      33
+    ]
+  },
+  {
+    "titulo": "GreenRobot 42",
+    "equipo": "Los Nopales 1",
+    "categoria": "HW",
+    "evaluadores": [
+      22,
+      23,
+      31,
+      36,
+      49
+    ]
+  },
+  {
+    "titulo": "NovaAsistente 43",
+    "equipo": "Los Papois 7",
+    "categoria": "IA",
+    "evaluadores": [
+      21,
+      31,
+      48
+    ]
+  },
+  {
+    "titulo": "TechIniciativa 44",
+    "equipo": "Pixel Crew 7",
+    "categoria": "SC",
+    "evaluadores": [
+      3,
+      9,
+      32
+    ]
+  },
+  {
+    "titulo": "AutoAPI 45",
+    "equipo": "Bit Bandits 4",
+    "categoria": "SW",
+    "evaluadores": [
+      1,
+      30,
+      34
+    ]
+  },
+  {
+    "titulo": "TechRobot 46",
+    "equipo": "Los Papois 9",
+    "categoria": "HW",
+    "evaluadores": [
+      26,
+      40,
+      42,
+      45
+    ]
+  },
+  {
+    "titulo": "SmartClasificador 47",
+    "equipo": "Los Papois 1",
+    "categoria": "IA",
+    "evaluadores": [
+      3,
+      5,
+      16,
+      40,
+      41
+    ]
+  },
+  {
+    "titulo": "MegaIniciativa 48",
+    "equipo": "Quantum Chilaquiles 9",
+    "categoria": "SC",
+    "evaluadores": [
+      3,
+      4,
+      21
+    ]
+  },
+  {
+    "titulo": "NovaApp 49",
+    "equipo": "Quantum Chilaquiles 2",
+    "categoria": "SW",
+    "evaluadores": [
+      6,
+      11,
+      12,
+      25,
+      40
+    ]
+  },
+  {
+    "titulo": "NovaSensor 50",
+    "equipo": "Ctrl+Alt+Elote 2",
+    "categoria": "HW",
+    "evaluadores": [
+      11,
+      19,
+      35,
+      44
+    ]
+  },
+  {
+    "titulo": "AlphaAsistente 51",
+    "equipo": "Code Ninjas 4",
+    "categoria": "IA",
+    "evaluadores": [
+      7,
+      13,
+      25,
+      31
+    ]
+  },
+  {
+    "titulo": "MegaComunidad 52",
+    "equipo": "Los Papois 2",
+    "categoria": "SC",
+    "evaluadores": [
+      1,
+      18,
+      37,
+      44
+    ]
+  },
+  {
+    "titulo": "CyberPortal 53",
+    "equipo": "Ctrl+Alt+Elote 9",
+    "categoria": "SW",
+    "evaluadores": [
+      13,
+      15,
+      23,
+      40,
+      41
+    ]
+  },
+  {
+    "titulo": "BioDron 54",
+    "equipo": "Neuronas 6",
+    "categoria": "HW",
+    "evaluadores": [
+      6,
+      9,
+      19,
+      24,
+      47
+    ]
+  },
+  {
+    "titulo": "AlphaClasificador 55",
+    "equipo": "Los Nopales 3",
+    "categoria": "IA",
+    "evaluadores": [
+      8,
+      19,
+      22,
+      48
+    ]
+  },
+  {
+    "titulo": "TechIniciativa 56",
+    "equipo": "Tacos Tech 2",
+    "categoria": "SC",
+    "evaluadores": [
+      1,
+      6,
+      17,
+      26
+    ]
+  },
+  {
+    "titulo": "SmartAPI 57",
+    "equipo": "Ctrl+Alt+Elote 2",
+    "categoria": "SW",
+    "evaluadores": [
+      15,
+      31,
+      44
+    ]
+  },
+  {
+    "titulo": "EcoWearable 58",
+    "equipo": "Neuronas 9",
+    "categoria": "HW",
+    "evaluadores": [
+      20,
+      27,
+      30,
+      42,
+      45
+    ]
+  },
+  {
+    "titulo": "TechModelo 59",
+    "equipo": "Tacos Tech 2",
+    "categoria": "IA",
+    "evaluadores": [
+      35,
+      43,
+      45,
+      48
+    ]
+  },
+  {
+    "titulo": "AlphaCampaña 60",
+    "equipo": "Pixel Crew 3",
+    "categoria": "SC",
+    "evaluadores": [
+      14,
+      24,
+      45
+    ]
+  },
+  {
+    "titulo": "GreenPortal 61",
+    "equipo": "Pixel Crew 9",
+    "categoria": "SW",
+    "evaluadores": [
+      4,
+      18,
+      23,
+      26,
+      42
+    ]
+  },
+  {
+    "titulo": "SmartWearable 62",
+    "equipo": "Pixel Crew 2",
+    "categoria": "HW",
+    "evaluadores": [
+      9,
+      14,
+      16,
+      37
+    ]
+  },
+  {
+    "titulo": "NovaClasificador 63",
+    "equipo": "Code Ninjas 2",
+    "categoria": "IA",
+    "evaluadores": [
+      1,
+      9,
+      10,
+      18,
+      35
+    ]
+  },
+  {
+    "titulo": "AutoPrograma 64",
+    "equipo": "Pixel Crew 5",
+    "categoria": "SC",
+    "evaluadores": [
+      4,
+      9,
+      17
+    ]
+  },
+  {
+    "titulo": "MegaPlataforma 65",
+    "equipo": "Tacos Tech 4",
+    "categoria": "SW",
+    "evaluadores": [
+      7,
+      15,
+      29,
+      33,
+      38
+    ]
+  },
+  {
+    "titulo": "TechWearable 66",
+    "equipo": "Silicon Mezcal 5",
+    "categoria": "HW",
+    "evaluadores": [
+      7,
+      28,
+      32,
+      44
+    ]
+  },
+  {
+    "titulo": "SmartChatbot 67",
+    "equipo": "Los Nopales 5",
+    "categoria": "IA",
+    "evaluadores": [
+      21,
+      36,
+      38,
+      41,
+      46
+    ]
+  },
+  {
+    "titulo": "SmartRed 68",
+    "equipo": "Tacos Tech 3",
+    "categoria": "SC",
+    "evaluadores": [
+      14,
+      15,
+      28,
+      29,
+      47
+    ]
+  },
+  {
+    "titulo": "TechPlataforma 69",
+    "equipo": "Silicon Mezcal 9",
+    "categoria": "SW",
+    "evaluadores": [
+      5,
+      6,
+      7,
+      28
+    ]
+  },
+  {
+    "titulo": "CyberWearable 70",
+    "equipo": "Los Papois 2",
+    "categoria": "HW",
+    "evaluadores": [
+      23,
+      27,
+      43
+    ]
+  },
+  {
+    "titulo": "EcoModelo 71",
+    "equipo": "Quantum Chilaquiles 1",
+    "categoria": "IA",
+    "evaluadores": [
+      7,
+      23,
+      33,
+      37
+    ]
+  },
+  {
+    "titulo": "BioComunidad 72",
+    "equipo": "Quantum Chilaquiles 3",
+    "categoria": "SC",
+    "evaluadores": [
+      15,
+      28,
+      36,
+      40,
+      50
+    ]
+  },
+  {
+    "titulo": "CyberPlataforma 73",
+    "equipo": "Los Papois 5",
+    "categoria": "SW",
+    "evaluadores": [
+      1,
+      10,
+      12,
+      23
+    ]
+  },
+  {
+    "titulo": "BioSensor 74",
+    "equipo": "Tacos Tech 4",
+    "categoria": "HW",
+    "evaluadores": [
+      11,
+      22,
+      27,
+      30
+    ]
+  },
+  {
+    "titulo": "AlphaChatbot 75",
+    "equipo": "Tacos Tech 9",
+    "categoria": "IA",
+    "evaluadores": [
+      6,
+      18,
+      44
+    ]
+  },
+  {
+    "titulo": "CyberComunidad 76",
+    "equipo": "Bit Bandits 4",
+    "categoria": "SC",
+    "evaluadores": [
+      8,
+      19,
+      23,
+      28,
+      44
+    ]
+  },
+  {
+    "titulo": "NovaPlataforma 77",
+    "equipo": "Los Nopales 1",
+    "categoria": "SW",
+    "evaluadores": [
+      9,
+      49,
+      50
+    ]
+  },
+  {
+    "titulo": "NovaDron 78",
+    "equipo": "Los Nopales 4",
+    "categoria": "HW",
+    "evaluadores": [
+      25,
+      35,
+      46
+    ]
+  },
+  {
+    "titulo": "TechModelo 79",
+    "equipo": "Code Ninjas 7",
+    "categoria": "IA",
+    "evaluadores": [
+      2,
+      5,
+      21,
+      30
+    ]
+  },
+  {
+    "titulo": "SmartIniciativa 80",
+    "equipo": "Neuronas 4",
+    "categoria": "SC",
+    "evaluadores": [
+      30,
+      40,
+      45
+    ]
+  },
+  {
+    "titulo": "GreenSistema 81",
+    "equipo": "Pixel Crew 4",
+    "categoria": "SW",
+    "evaluadores": [
+      6,
+      20,
+      26,
+      34
+    ]
+  },
+  {
+    "titulo": "AlphaSensor 82",
+    "equipo": "Neuronas 7",
+    "categoria": "HW",
+    "evaluadores": [
+      23,
+      47,
+      50
+    ]
+  },
+  {
+    "titulo": "BioClasificador 83",
+    "equipo": "Code Ninjas 5",
+    "categoria": "IA",
+    "evaluadores": [
+      10,
+      12,
+      39
+    ]
+  },
+  {
+    "titulo": "BioComunidad 84",
+    "equipo": "Los Nopales 9",
+    "categoria": "SC",
+    "evaluadores": [
+      29,
+      37,
+      41,
+      42,
+      44
+    ]
+  },
+  {
+    "titulo": "BioApp 85",
+    "equipo": "Code Ninjas 5",
+    "categoria": "SW",
+    "evaluadores": [
+      4,
+      5,
+      20,
+      23,
+      33
+    ]
+  },
+  {
+    "titulo": "NovaWearable 86",
+    "equipo": "Pixel Crew 1",
+    "categoria": "HW",
+    "evaluadores": [
+      3,
+      29,
+      37,
+      42,
+      48
+    ]
+  },
+  {
+    "titulo": "EcoPredictor 87",
+    "equipo": "Los Nopales 6",
+    "categoria": "IA",
+    "evaluadores": [
+      3,
+      12,
+      16,
+      42,
+      46
+    ]
+  },
+  {
+    "titulo": "BioIniciativa 88",
+    "equipo": "Ctrl+Alt+Elote 9",
+    "categoria": "SC",
+    "evaluadores": [
+      4,
+      22,
+      39,
+      41,
+      42
+    ]
+  },
+  {
+    "titulo": "EcoAPI 89",
+    "equipo": "Ctrl+Alt+Elote 4",
+    "categoria": "SW",
+    "evaluadores": [
+      10,
+      38,
+      43
+    ]
+  },
+  {
+    "titulo": "TechSensor 90",
+    "equipo": "Los Nopales 1",
+    "categoria": "HW",
+    "evaluadores": [
+      6,
+      20,
+      25,
+      36,
+      42
+    ]
+  },
+  {
+    "titulo": "AutoPredictor 91",
+    "equipo": "Neuronas 6",
+    "categoria": "IA",
+    "evaluadores": [
+      12,
+      14,
+      20,
+      22
+    ]
+  },
+  {
+    "titulo": "CyberRed 92",
+    "equipo": "Tacos Tech 6",
+    "categoria": "SC",
+    "evaluadores": [
+      3,
+      34,
+      35,
+      48,
+      50
+    ]
+  },
+  {
+    "titulo": "EcoSistema 93",
+    "equipo": "Quantum Chilaquiles 5",
+    "categoria": "SW",
+    "evaluadores": [
+      3,
+      24,
+      27,
+      29,
+      44
+    ]
+  },
+  {
+    "titulo": "CyberDron 94",
+    "equipo": "Los Nopales 5",
+    "categoria": "HW",
+    "evaluadores": [
+      29,
+      30,
+      37,
+      44
+    ]
+  },
+  {
+    "titulo": "AutoModelo 95",
+    "equipo": "Neuronas 7",
+    "categoria": "IA",
+    "evaluadores": [
+      4,
+      24,
+      31,
+      42
+    ]
+  },
+  {
+    "titulo": "CyberPrograma 96",
+    "equipo": "Ctrl+Alt+Elote 5",
+    "categoria": "SC",
+    "evaluadores": [
+      10,
+      28,
+      29,
+      33
+    ]
+  },
+  {
+    "titulo": "CyberPortal 97",
+    "equipo": "Los Papois 5",
+    "categoria": "SW",
+    "evaluadores": [
+      6,
+      16,
+      24,
+      25
+    ]
+  },
+  {
+    "titulo": "TechRobot 98",
+    "equipo": "Los Nopales 6",
+    "categoria": "HW",
+    "evaluadores": [
+      9,
+      45,
+      46,
+      49
+    ]
+  },
+  {
+    "titulo": "GreenAsistente 99",
+    "equipo": "Silicon Mezcal 4",
+    "categoria": "IA",
+    "evaluadores": [
+      8,
+      28,
+      34,
+      39,
+      50
+    ]
+  },
+  {
+    "titulo": "AutoIniciativa 100",
+    "equipo": "Bit Bandits 2",
+    "categoria": "SC",
+    "evaluadores": [
+      2,
+      33,
+      35,
+      37,
+      41
+    ]
+  }
+]
